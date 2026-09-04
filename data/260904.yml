@@ -7,7 +7,7 @@ about:
   head: e333e45
   archived: false
   latestVersion: fio-3.42
-  collectedAt: 2026-09-04T19:21:38Z
+  collectedAt: 2026-09-04T21:12:04Z
 timeline:
   created: 2012-10-22
   lastCommit: 2026-09-04
@@ -88,6 +88,69 @@ total:
   openIssue: 214
   commit: 8967
 ---
+path: /home/runner/.x-repo/github.com/axboe/fio
+collectedAt: 2026-09-04T21:12:07Z
+loc:
+  C:
+    code: 74609
+    comments: 7648
+    blanks: 14490
+    files: 189
+  Python:
+    code: 13027
+    comments: 1435
+    blanks: 1949
+    files: 34
+  CHeader:
+    code: 10904
+    comments: 2039
+    blanks: 2421
+    files: 186
+  ReStructuredText:
+    code: 4504
+    comments: 0
+    blanks: 1707
+    files: 5
+  Sh:
+    code: 3507
+    comments: 631
+    blanks: 331
+    files: 10
+  Bash:
+    code: 2717
+    comments: 309
+    blanks: 439
+    files: 5
+  Makefile:
+    code: 872
+    comments: 23
+    blanks: 145
+    files: 4
+  Batch:
+    code: 288
+    comments: 2
+    blanks: 46
+    files: 2
+  Happy:
+    code: 224
+    comments: 0
+    blanks: 23
+    files: 1
+  Bitbake:
+    code: 73
+    comments: 1
+    blanks: 31
+    files: 1
+  Markdown:
+    code: 0
+    comments: 98
+    blanks: 40
+    files: 1
+total:
+  code: 110745
+  comments: 12190
+  blanks: 21626
+  files: 438
 ---
 date: "2026-08-24"
 repo:
