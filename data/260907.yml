@@ -5,13 +5,13 @@ about:
   head: e333e45
   archived: false
   latestVersion: "fio-3.42"
-  collectedAt: 2026-09-07T05:56:26Z
+  collectedAt: 2026-09-07T18:34:40Z
 timeline:
   created: 2012-10-22
   lastCommit: 2026-09-04
   lastRelease: 2026-04-07
 popularity:
-  star: 6361
+  star: 6362
   watcher: 163
   fork: 1429
   release: 12
@@ -87,7 +87,7 @@ total:
   commit: 8967
 ---
 path: /home/runner/.x-repo/github.com/axboe/fio
-collectedAt: 2026-09-07T05:56:31Z
+collectedAt: 2026-09-07T18:34:46Z
 loc:
   C:
     code: 74609
@@ -260,7 +260,7 @@ checks:
       - 'Warn: 0 commits out of 15 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:56:32+00:00
+  collectedAt: 2026-09-07T18:34:47+00:00
   platform:
     darwin/arm64:
       name:  null
