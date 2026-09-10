@@ -7,7 +7,7 @@ about:
   latestVersion: "fio-3.42"
   latestRelease: "fio-3.42"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:28:22Z
+  collectedAt: 2026-09-10T23:27:05Z
 timeline:
   created: 2012-10-22
   lastCommit: 2026-09-09
@@ -91,7 +91,7 @@ total:
   commit: 8969
 ---
 path: /home/runner/.x-repo/github.com/axboe/fio
-collectedAt: 2026-09-10T20:28:27Z
+collectedAt: 2026-09-10T23:27:09Z
 loc:
   C:
     code: 74609
