@@ -7,7 +7,7 @@ about:
   latestVersion: "fio-3.42"
   latestRelease: "fio-3.42"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:11:07Z
+  collectedAt: 2026-09-10T20:28:22Z
 timeline:
   created: 2012-10-22
   lastCommit: 2026-09-09
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 6364
   watcher: 164
-  fork: 1429
+  fork: 1430
   release: 12
   contributor: 329
   pullRequest: 932
@@ -91,7 +91,7 @@ total:
   commit: 8969
 ---
 path: /home/runner/.x-repo/github.com/axboe/fio
-collectedAt: 2026-09-10T06:11:12Z
+collectedAt: 2026-09-10T20:28:27Z
 loc:
   C:
     code: 74609
