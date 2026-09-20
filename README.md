@@ -4,7 +4,7 @@
 
 Flexible I/O Tester
 
-![fio](https://repo.x-cmd.io/fio.svg)
+[![x-cmd/install — fio Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fio.svg)](https://x-cmd.com/install/fio)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,370 · **Forks**: 1,431 · **Open issues**: 1,132 · **Contributors**: 329
+- **Stars**: 6,372 · **Forks**: 1,432 · **Open issues**: 1,132 · **Contributors**: 329
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 652 · **Open PRs**: 24 · **Closed issues**: 919 · **Open issues**: 213 · **Commits**: 8974
+- **Releases**: 12 · **Merged PRs**: 652 · **Open PRs**: 25 · **Closed issues**: 919 · **Open issues**: 213 · **Commits**: 8974
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 4 | 1 | 1 | 10 |
-| last60d | 2026-07-20 | 0 | 8 | 7 | 2 | 6 | 20 |
-| 90d | 2026-06-20 | 0 | 12 | 7 | 3 | 7 | 53 |
-| last180d | 2026-03-22 | 1 | 34 | 7 | 9 | 9 | 109 |
-| 360d | 2025-09-23 | 1 | 67 | 9 | 31 | 18 | 208 |
-| last720d | 2024-09-28 | 5 | 98 | 10 | 97 | 45 | 509 |
+| 30d | 2026-08-21 | 0 | 3 | 4 | 1 | 1 | 10 |
+| last60d | 2026-07-22 | 0 | 8 | 8 | 2 | 6 | 20 |
+| 90d | 2026-06-22 | 0 | 12 | 8 | 3 | 7 | 53 |
+| last180d | 2026-03-24 | 1 | 34 | 8 | 9 | 9 | 109 |
+| 360d | 2025-09-25 | 1 | 66 | 10 | 30 | 18 | 208 |
+| last720d | 2024-09-30 | 5 | 98 | 11 | 97 | 45 | 509 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:21:52Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:17:31Z._
