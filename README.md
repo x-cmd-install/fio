@@ -41,35 +41,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `fio-3.42` (2026-04-07)
-- **Last commit**: 2026-09-21
+- **Latest**: `fio-3.43` (2026-09-23)
+- **Last commit**: 2026-09-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,379 · **Forks**: 1,432 · **Open issues**: 1,132 · **Contributors**: 331
+- **Stars**: 6,381 · **Forks**: 1,432 · **Open issues**: 1,132 · **Contributors**: 332
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 654 · **Open PRs**: 23 · **Closed issues**: 919 · **Open issues**: 213 · **Commits**: 8978
+- **Releases**: 13 · **Merged PRs**: 654 · **Open PRs**: 24 · **Closed issues**: 919 · **Open issues**: 213 · **Commits**: 8980
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 5 | 2 | 1 | 1 | 9 |
-| last60d | 2026-07-25 | 0 | 10 | 6 | 2 | 6 | 18 |
-| 90d | 2026-06-25 | 0 | 13 | 6 | 3 | 7 | 44 |
-| last180d | 2026-03-27 | 1 | 36 | 6 | 8 | 9 | 111 |
-| 360d | 2025-09-28 | 1 | 68 | 8 | 30 | 18 | 208 |
-| last720d | 2024-10-03 | 4 | 100 | 9 | 96 | 45 | 508 |
+| 30d | 2026-08-25 | 1 | 5 | 3 | 1 | 1 | 11 |
+| last60d | 2026-07-26 | 1 | 10 | 7 | 2 | 6 | 20 |
+| 90d | 2026-06-26 | 1 | 13 | 7 | 3 | 7 | 46 |
+| last180d | 2026-03-28 | 2 | 36 | 7 | 8 | 9 | 113 |
+| 360d | 2025-09-29 | 2 | 68 | 9 | 30 | 17 | 210 |
+| last720d | 2024-10-04 | 5 | 100 | 10 | 96 | 45 | 508 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [fio-3.42-x64.msi](https://github.com/axboe/fio/releases/download/fio-3.42/fio-3.42-x64.msi) | 2.7 MiB | `other` |
-| [fio-3.42-x86.msi](https://github.com/axboe/fio/releases/download/fio-3.42/fio-3.42-x86.msi) | 2.5 MiB | `other` |
+| [fio-3.43-x64.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x64.msi) | 2.7 MiB | `other` |
+| [fio-3.43-x86.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x86.msi) | 2.6 MiB | `other` |
 
 ## Improve this data
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:27:12Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:48:12Z._
