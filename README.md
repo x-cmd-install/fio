@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 1 | 3 | 5 | 1 | 1 | 10 |
-| last60d | 2026-07-30 | 1 | 10 | 9 | 2 | 5 | 18 |
-| 90d | 2026-06-30 | 1 | 13 | 9 | 3 | 7 | 39 |
-| last180d | 2026-04-01 | 2 | 36 | 9 | 8 | 9 | 112 |
-| 360d | 2025-10-03 | 2 | 68 | 11 | 29 | 17 | 208 |
-| last720d | 2024-10-08 | 5 | 101 | 12 | 96 | 44 | 508 |
+| 30d | 2026-08-30 | 1 | 3 | 5 | 1 | 1 | 10 |
+| last60d | 2026-07-31 | 1 | 9 | 9 | 2 | 5 | 18 |
+| 90d | 2026-07-01 | 1 | 13 | 9 | 2 | 7 | 39 |
+| last180d | 2026-04-02 | 2 | 36 | 9 | 8 | 9 | 112 |
+| 360d | 2025-10-04 | 2 | 68 | 11 | 28 | 17 | 208 |
+| last720d | 2024-10-09 | 5 | 101 | 12 | 96 | 43 | 508 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:37:51Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:54:06Z._
