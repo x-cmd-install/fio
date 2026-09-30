@@ -14,11 +14,11 @@ x install fio
 
 ## Code insight
 
-Total: **110,727** lines of code across **424** files in the top 5 languages.
+Total: **110,729** lines of code across **424** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 74,612 | 7,661 | 14,494 | 189 |
+| C | 74,614 | 7,661 | 14,494 | 189 |
 | Python | 13,027 | 1,435 | 1,949 | 34 |
 | CHeader | 10,903 | 2,039 | 2,421 | 186 |
 | ReStructuredText | 4,504 | 0 | 1,707 | 5 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `fio-3.43` (2026-09-23)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-09-29
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,388 · **Forks**: 1,435 · **Open issues**: 1,132 · **Contributors**: 333
+- **Stars**: 6,390 · **Forks**: 1,435 · **Open issues**: 1,132 · **Contributors**: 334
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 655 · **Open PRs**: 26 · **Closed issues**: 919 · **Open issues**: 213 · **Commits**: 8980
+- **Releases**: 13 · **Merged PRs**: 656 · **Open PRs**: 25 · **Closed issues**: 920 · **Open issues**: 212 · **Commits**: 8982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 1 | 3 | 5 | 1 | 1 | 10 |
-| last60d | 2026-07-31 | 1 | 9 | 9 | 2 | 5 | 18 |
-| 90d | 2026-07-01 | 1 | 13 | 9 | 2 | 7 | 39 |
-| last180d | 2026-04-02 | 2 | 36 | 9 | 8 | 9 | 112 |
-| 360d | 2025-10-04 | 2 | 68 | 11 | 28 | 17 | 208 |
-| last720d | 2024-10-09 | 5 | 101 | 12 | 96 | 43 | 508 |
+| 30d | 2026-08-31 | 1 | 4 | 5 | 1 | 1 | 0 |
+| last60d | 2026-08-01 | 1 | 10 | 8 | 2 | 5 | 0 |
+| 90d | 2026-07-02 | 1 | 13 | 8 | 2 | 7 | 0 |
+| last180d | 2026-04-03 | 2 | 37 | 8 | 8 | 9 | 0 |
+| 360d | 2025-10-05 | 2 | 68 | 10 | 28 | 17 | 0 |
+| last720d | 2024-10-10 | 5 | 102 | 11 | 96 | 43 | 510 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T06:54:06Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T06:49:44Z._
