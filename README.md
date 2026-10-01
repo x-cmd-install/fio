@@ -18,7 +18,7 @@ Total: **110,729** lines of code across **424** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 74,614 | 7,661 | 14,494 | 189 |
+| C | 74,614 | 7,665 | 14,494 | 189 |
 | Python | 13,027 | 1,435 | 1,949 | 34 |
 | CHeader | 10,903 | 2,039 | 2,421 | 186 |
 | ReStructuredText | 4,504 | 0 | 1,707 | 5 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `fio-3.43` (2026-09-23)
-- **Last commit**: 2026-09-29
+- **Last commit**: 2026-09-30
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,390 · **Forks**: 1,435 · **Open issues**: 1,132 · **Contributors**: 334
+- **Stars**: 6,391 · **Forks**: 1,435 · **Open issues**: 1,132 · **Contributors**: 335
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 656 · **Open PRs**: 25 · **Closed issues**: 920 · **Open issues**: 212 · **Commits**: 8982
+- **Releases**: 13 · **Merged PRs**: 657 · **Open PRs**: 24 · **Closed issues**: 921 · **Open issues**: 211 · **Commits**: 8984
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 1 | 4 | 5 | 1 | 1 | 0 |
-| last60d | 2026-08-01 | 1 | 10 | 8 | 2 | 5 | 0 |
-| 90d | 2026-07-02 | 1 | 13 | 8 | 2 | 7 | 0 |
-| last180d | 2026-04-03 | 2 | 37 | 8 | 8 | 9 | 0 |
-| 360d | 2025-10-05 | 2 | 68 | 10 | 28 | 17 | 0 |
-| last720d | 2024-10-10 | 5 | 102 | 11 | 96 | 43 | 510 |
+| 30d | 2026-09-01 | 1 | 5 | 4 | 1 | 1 | 12 |
+| last60d | 2026-08-02 | 1 | 11 | 7 | 2 | 5 | 20 |
+| 90d | 2026-07-03 | 1 | 14 | 7 | 2 | 7 | 41 |
+| last180d | 2026-04-04 | 2 | 38 | 7 | 8 | 9 | 114 |
+| 360d | 2025-10-06 | 2 | 69 | 9 | 28 | 17 | 210 |
+| last720d | 2024-10-11 | 5 | 103 | 10 | 97 | 42 | 512 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:49:44Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:58:55Z._
