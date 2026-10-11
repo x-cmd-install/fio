@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 658 · **Open PRs**: 23 · **Closed issues**: 921 · **Open issues**: 212 · **Commits**: 8986
+- **Releases**: 13 · **Merged PRs**: 658 · **Open PRs**: 24 · **Closed issues**: 921 · **Open issues**: 212 · **Commits**: 8986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 1 | 4 | 2 | 0 | 2 | 6 |
-| last60d | 2026-08-11 | 1 | 10 | 4 | 1 | 3 | 19 |
-| 90d | 2026-07-12 | 1 | 14 | 6 | 2 | 8 | 40 |
-| last180d | 2026-04-13 | 1 | 38 | 6 | 8 | 10 | 111 |
-| 360d | 2025-10-15 | 2 | 67 | 8 | 27 | 18 | 203 |
-| last720d | 2024-10-20 | 5 | 104 | 8 | 94 | 42 | 512 |
+| 30d | 2026-09-11 | 1 | 4 | 3 | 0 | 2 | 6 |
+| last60d | 2026-08-12 | 1 | 10 | 5 | 1 | 3 | 19 |
+| 90d | 2026-07-13 | 1 | 14 | 7 | 2 | 8 | 40 |
+| last180d | 2026-04-14 | 1 | 38 | 7 | 8 | 10 | 111 |
+| 360d | 2025-10-16 | 2 | 67 | 9 | 27 | 18 | 203 |
+| last720d | 2024-10-21 | 5 | 104 | 9 | 94 | 42 | 512 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T06:49:42Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:50:08Z._
