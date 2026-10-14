@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,392 · **Forks**: 1,434 · **Open issues**: 1,133 · **Contributors**: 336
+- **Stars**: 6,394 · **Forks**: 1,434 · **Open issues**: 1,133 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 659 · **Open PRs**: 23 · **Closed issues**: 921 · **Open issues**: 212 · **Commits**: 8988
+- **Releases**: 13 · **Merged PRs**: 659 · **Open PRs**: 24 · **Closed issues**: 921 · **Open issues**: 212 · **Commits**: 8988
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 1 | 5 | 2 | 0 | 2 | 5 |
-| last60d | 2026-08-14 | 1 | 10 | 4 | 1 | 2 | 18 |
-| 90d | 2026-07-15 | 1 | 14 | 6 | 2 | 7 | 29 |
-| last180d | 2026-04-16 | 1 | 38 | 6 | 8 | 10 | 109 |
-| 360d | 2025-10-18 | 2 | 68 | 8 | 26 | 18 | 203 |
-| last720d | 2024-10-23 | 5 | 105 | 8 | 94 | 41 | 514 |
+| 30d | 2026-09-14 | 1 | 5 | 3 | 0 | 2 | 5 |
+| last60d | 2026-08-15 | 1 | 10 | 5 | 1 | 2 | 18 |
+| 90d | 2026-07-16 | 1 | 14 | 7 | 2 | 7 | 29 |
+| last180d | 2026-04-17 | 1 | 38 | 7 | 8 | 9 | 109 |
+| 360d | 2025-10-19 | 2 | 68 | 9 | 26 | 18 | 203 |
+| last720d | 2024-10-24 | 5 | 105 | 9 | 94 | 41 | 514 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T08:01:52Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T06:03:03Z._
