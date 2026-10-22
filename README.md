@@ -14,15 +14,15 @@ x install fio
 
 ## Code insight
 
-Total: **111,133** lines of code across **424** files in the top 5 languages.
+Total: **111,149** lines of code across **424** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 74,938 | 7,716 | 14,528 | 189 |
+| C | 74,944 | 7,716 | 14,530 | 189 |
 | Python | 13,027 | 1,435 | 1,949 | 34 |
-| CHeader | 10,921 | 2,039 | 2,423 | 186 |
+| CHeader | 10,915 | 2,039 | 2,421 | 186 |
 | ReStructuredText | 4,526 | 0 | 1,713 | 5 |
-| Sh | 3,547 | 643 | 334 | 10 |
+| Sh | 3,563 | 649 | 335 | 10 |
 
 ## OpenSSF Scorecard
 
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `fio-3.43` (2026-09-23)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-21
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,399 · **Forks**: 1,434 · **Open issues**: 1,133 · **Contributors**: 336
+- **Stars**: 6,400 · **Forks**: 1,435 · **Open issues**: 1,133 · **Contributors**: 336
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 660 · **Open PRs**: 26 · **Closed issues**: 922 · **Open issues**: 211 · **Commits**: 8990
+- **Releases**: 13 · **Merged PRs**: 662 · **Open PRs**: 28 · **Closed issues**: 922 · **Open issues**: 211 · **Commits**: 8994
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 1 | 4 | 5 | 0 | 1 | 3 |
-| last60d | 2026-08-22 | 1 | 9 | 7 | 1 | 2 | 16 |
-| 90d | 2026-07-23 | 1 | 15 | 9 | 2 | 7 | 26 |
-| last180d | 2026-04-24 | 1 | 37 | 9 | 9 | 8 | 106 |
-| 360d | 2025-10-26 | 2 | 68 | 11 | 27 | 17 | 201 |
-| last720d | 2024-10-31 | 5 | 106 | 11 | 94 | 39 | 514 |
+| 30d | 2026-09-22 | 1 | 6 | 7 | 0 | 1 | 0 |
+| last60d | 2026-08-23 | 1 | 11 | 9 | 1 | 2 | 0 |
+| 90d | 2026-07-24 | 1 | 17 | 11 | 2 | 7 | 0 |
+| last180d | 2026-04-25 | 1 | 39 | 11 | 9 | 8 | 0 |
+| 360d | 2025-10-27 | 2 | 69 | 13 | 27 | 17 | 0 |
+| last720d | 2024-11-01 | 5 | 108 | 13 | 94 | 39 | 518 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:49:03Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:51:00Z._
