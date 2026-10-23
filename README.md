@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,400 · **Forks**: 1,435 · **Open issues**: 1,133 · **Contributors**: 336
+- **Stars**: 6,401 · **Forks**: 1,434 · **Open issues**: 1,133 · **Contributors**: 336
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 6 | 7 | 0 | 1 | 0 |
-| last60d | 2026-08-23 | 1 | 11 | 9 | 1 | 2 | 0 |
-| 90d | 2026-07-24 | 1 | 17 | 11 | 2 | 7 | 0 |
-| last180d | 2026-04-25 | 1 | 39 | 11 | 9 | 8 | 0 |
-| 360d | 2025-10-27 | 2 | 69 | 13 | 27 | 17 | 0 |
-| last720d | 2024-11-01 | 5 | 108 | 13 | 94 | 39 | 518 |
+| 30d | 2026-09-23 | 1 | 5 | 7 | 0 | 1 | 4 |
+| last60d | 2026-08-24 | 1 | 11 | 9 | 1 | 2 | 18 |
+| 90d | 2026-07-25 | 1 | 17 | 11 | 2 | 7 | 28 |
+| last180d | 2026-04-26 | 1 | 39 | 11 | 9 | 8 | 108 |
+| 360d | 2025-10-28 | 2 | 68 | 13 | 27 | 17 | 203 |
+| last720d | 2024-11-02 | 5 | 108 | 13 | 94 | 39 | 518 |
 
 ## Release assets
 
@@ -70,6 +70,25 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [fio-3.43-x64.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x64.msi) | 2.7 MiB | `other` |
 | [fio-3.43-x86.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x86.msi) | 2.6 MiB | `other` |
+
+## Distribution status
+
+Reported by **243** distros on [repology.org](https://repology.org/project/fio). **18** are ✅ on the latest upstream release, **123** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.41` | ⚠️ outdated |
+| Debian 14 | `3.41` | ⚠️ outdated |
+| Debian 13 | `3.39` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.41` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.36` | ⚠️ outdated |
+| Arch | `3.42` | ⚠️ outdated |
+| Homebrew | `3.43` | ✅ latest |
+| Fedora rawhide | `3.43` | ✅ latest |
+| Nix unstable | `3.42` | ⚠️ outdated |
+| Void | `3.43` | ✅ latest |
+| Alpine edge | `3.43` | ✅ latest |
+| openSUSE Tumbleweed | `3.43` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +99,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:51:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:53:35Z._
