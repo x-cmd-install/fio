@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,420 · **Forks**: 1,441 · **Open issues**: 1,134 · **Contributors**: 338
+- **Stars**: 6,420 · **Forks**: 1,442 · **Open issues**: 1,134 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 669 · **Open PRs**: 30 · **Closed issues**: 924 · **Open issues**: 210 · **Commits**: 9010
+- **Releases**: 13 · **Merged PRs**: 669 · **Open PRs**: 31 · **Closed issues**: 924 · **Open issues**: 210 · **Commits**: 9010
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 10 | 8 | 0 | 1 | 11 |
-| last60d | 2026-09-07 | 1 | 15 | 9 | 0 | 3 | 22 |
-| 90d | 2026-08-08 | 1 | 21 | 11 | 1 | 4 | 33 |
-| last180d | 2026-05-10 | 1 | 43 | 13 | 9 | 8 | 108 |
-| 360d | 2025-11-11 | 2 | 74 | 13 | 26 | 16 | 207 |
-| last720d | 2024-11-16 | 5 | 115 | 15 | 95 | 38 | 529 |
+| 30d | 2026-10-08 | 0 | 10 | 9 | 0 | 1 | 11 |
+| last60d | 2026-09-08 | 1 | 15 | 10 | 0 | 3 | 22 |
+| 90d | 2026-08-09 | 1 | 21 | 12 | 1 | 4 | 33 |
+| last180d | 2026-05-11 | 1 | 43 | 14 | 9 | 8 | 108 |
+| 360d | 2025-11-12 | 2 | 74 | 14 | 26 | 16 | 207 |
+| last720d | 2024-11-17 | 5 | 115 | 16 | 95 | 38 | 529 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **245** distros on [repology.org](https://repology.org/project/fio). **20** are ✅ on the latest upstream release, **123** are ⚠️ on an older version.
+Reported by **246** distros on [repology.org](https://repology.org/project/fio). **20** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:14:48Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:17:44Z._
