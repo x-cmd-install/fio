@@ -26,12 +26,12 @@ x install fio
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.6 / 10**
+总评分: **4.8 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
@@ -47,22 +47,22 @@ x install fio
 
 ## 流行度
 
-- **Star**: 6,420 · **Fork**: 1,442 · **开放 issue**: 1,134 · **贡献者**: 338
+- **Star**: 6,419 · **Fork**: 1,443 · **开放 issue**: 1,134 · **贡献者**: 338
 
 ## 累计统计
 
-- **发布数**: 13 · **已合并 PR**: 669 · **开放 PR**: 31 · **已关闭 issue**: 924 · **开放 issue**: 210 · **提交数**: 9010
+- **发布数**: 13 · **已合并 PR**: 669 · **开放 PR**: 33 · **已关闭 issue**: 924 · **开放 issue**: 210 · **提交数**: 9010
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 10 | 9 | 0 | 1 | 11 |
-| last60d | 2026-09-09 | 1 | 15 | 10 | 0 | 3 | 22 |
-| 90d | 2026-08-10 | 1 | 21 | 12 | 1 | 4 | 33 |
-| last180d | 2026-05-12 | 1 | 43 | 14 | 9 | 8 | 108 |
-| 360d | 2025-11-13 | 2 | 74 | 14 | 26 | 16 | 207 |
-| last720d | 2024-11-18 | 5 | 115 | 16 | 95 | 38 | 529 |
+| 30d | 2026-10-11 | 0 | 10 | 10 | 0 | 1 | 10 |
+| last60d | 2026-09-11 | 1 | 15 | 12 | 0 | 3 | 18 |
+| 90d | 2026-08-12 | 1 | 21 | 14 | 1 | 4 | 31 |
+| last180d | 2026-05-14 | 1 | 42 | 16 | 9 | 8 | 104 |
+| 360d | 2025-11-15 | 2 | 74 | 16 | 26 | 16 | 204 |
+| last720d | 2024-11-20 | 5 | 115 | 18 | 94 | 38 | 529 |
 
 ## Release 资产
 
@@ -73,7 +73,7 @@ x install fio
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/fio) 上共有 **246** 个发行版报告此项目。**20** 个 ✅ 已是最新上游版本，**124** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/fio) 上共有 **246** 个发行版报告此项目。**21** 个 ✅ 已是最新上游版本，**123** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -99,4 +99,4 @@ fio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261108.yml` · 2026-11-08T07:10:07Z._
+_数据快照: `data/card/261110.yml` · 2026-11-10T08:47:12Z._

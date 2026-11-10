@@ -26,12 +26,12 @@ Total: **111,212** lines of code across **424** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.6 / 10**
+Overall score: **4.8 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,420 · **Forks**: 1,442 · **Open issues**: 1,134 · **Contributors**: 338
+- **Stars**: 6,419 · **Forks**: 1,443 · **Open issues**: 1,134 · **Contributors**: 338
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 669 · **Open PRs**: 31 · **Closed issues**: 924 · **Open issues**: 210 · **Commits**: 9010
+- **Releases**: 13 · **Merged PRs**: 669 · **Open PRs**: 33 · **Closed issues**: 924 · **Open issues**: 210 · **Commits**: 9010
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 10 | 9 | 0 | 1 | 11 |
-| last60d | 2026-09-09 | 1 | 15 | 10 | 0 | 3 | 22 |
-| 90d | 2026-08-10 | 1 | 21 | 12 | 1 | 4 | 33 |
-| last180d | 2026-05-12 | 1 | 43 | 14 | 9 | 8 | 108 |
-| 360d | 2025-11-13 | 2 | 74 | 14 | 26 | 16 | 207 |
-| last720d | 2024-11-18 | 5 | 115 | 16 | 95 | 38 | 529 |
+| 30d | 2026-10-11 | 0 | 10 | 10 | 0 | 1 | 10 |
+| last60d | 2026-09-11 | 1 | 15 | 12 | 0 | 3 | 18 |
+| 90d | 2026-08-12 | 1 | 21 | 14 | 1 | 4 | 31 |
+| last180d | 2026-05-14 | 1 | 42 | 16 | 9 | 8 | 104 |
+| 360d | 2025-11-15 | 2 | 74 | 16 | 26 | 16 | 204 |
+| last720d | 2024-11-20 | 5 | 115 | 18 | 94 | 38 | 529 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **246** distros on [repology.org](https://repology.org/project/fio). **20** are ✅ on the latest upstream release, **124** are ⚠️ on an older version.
+Reported by **246** distros on [repology.org](https://repology.org/project/fio). **21** are ✅ on the latest upstream release, **123** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T07:10:06Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:47:11Z._
