@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `fio-3.43` (2026-09-23)
-- **Last commit**: 2026-11-10
+- **Last commit**: 2026-11-11
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,421 · **Forks**: 1,443 · **Open issues**: 1,134 · **Contributors**: 338
+- **Stars**: 6,422 · **Forks**: 1,444 · **Open issues**: 1,134 · **Contributors**: 339
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 670 · **Open PRs**: 33 · **Closed issues**: 924 · **Open issues**: 210 · **Commits**: 9012
+- **Releases**: 13 · **Merged PRs**: 671 · **Open PRs**: 35 · **Closed issues**: 924 · **Open issues**: 210 · **Commits**: 9014
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 11 | 10 | 0 | 1 | 11 |
-| last60d | 2026-09-12 | 1 | 16 | 12 | 0 | 3 | 19 |
-| 90d | 2026-08-13 | 1 | 22 | 14 | 1 | 3 | 32 |
-| last180d | 2026-05-15 | 1 | 42 | 16 | 9 | 8 | 105 |
-| 360d | 2025-11-16 | 2 | 75 | 16 | 26 | 16 | 205 |
-| last720d | 2024-11-21 | 5 | 116 | 18 | 94 | 38 | 531 |
+| 30d | 2026-10-13 | 0 | 11 | 12 | 0 | 1 | 12 |
+| last60d | 2026-09-13 | 1 | 17 | 14 | 0 | 3 | 20 |
+| 90d | 2026-08-14 | 1 | 22 | 16 | 1 | 3 | 33 |
+| last180d | 2026-05-16 | 1 | 43 | 18 | 9 | 8 | 106 |
+| 360d | 2025-11-17 | 2 | 75 | 18 | 26 | 16 | 206 |
+| last720d | 2024-11-22 | 5 | 117 | 20 | 94 | 38 | 533 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **245** distros on [repology.org](https://repology.org/project/fio). **23** are ✅ on the latest upstream release, **120** are ⚠️ on an older version.
+Reported by **244** distros on [repology.org](https://repology.org/project/fio). **23** are ✅ on the latest upstream release, **119** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -99,4 +99,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:18:21Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:55:32Z._
