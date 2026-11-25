@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `fio-3.43` (2026-09-23)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-24
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 6,437 · **Forks**: 1,445 · **Open issues**: 1,134 · **Contributors**: 341
+- **Stars**: 6,437 · **Forks**: 1,446 · **Open issues**: 1,134 · **Contributors**: 341
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 673 · **Open PRs**: 40 · **Closed issues**: 925 · **Open issues**: 209 · **Commits**: 9026
+- **Releases**: 13 · **Merged PRs**: 674 · **Open PRs**: 40 · **Closed issues**: 925 · **Open issues**: 209 · **Commits**: 9028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 10 | 13 | 0 | 1 | 17 |
-| last60d | 2026-09-25 | 0 | 15 | 19 | 1 | 1 | 23 |
-| 90d | 2026-08-26 | 1 | 20 | 21 | 2 | 2 | 38 |
-| last180d | 2026-05-28 | 1 | 41 | 23 | 6 | 7 | 109 |
-| 360d | 2025-11-29 | 2 | 75 | 23 | 26 | 15 | 212 |
-| last720d | 2024-12-04 | 5 | 119 | 25 | 89 | 37 | 543 |
+| 30d | 2026-10-26 | 0 | 11 | 13 | 0 | 1 | 18 |
+| last60d | 2026-09-26 | 0 | 16 | 19 | 1 | 1 | 24 |
+| 90d | 2026-08-27 | 1 | 21 | 21 | 2 | 2 | 39 |
+| last180d | 2026-05-29 | 1 | 42 | 23 | 6 | 7 | 110 |
+| 360d | 2025-11-30 | 2 | 76 | 23 | 26 | 15 | 213 |
+| last720d | 2024-12-05 | 5 | 120 | 25 | 89 | 37 | 544 |
 
 ## Release assets
 
@@ -70,25 +70,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [fio-3.43-x64.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x64.msi) | 2.7 MiB | `other` |
 | [fio-3.43-x86.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x86.msi) | 2.6 MiB | `other` |
-
-## Distribution status
-
-Reported by **243** distros on [repology.org](https://repology.org/project/fio). **25** are ✅ on the latest upstream release, **116** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `3.41` | ⚠️ outdated |
-| Debian 14 | `3.41` | ⚠️ outdated |
-| Debian 13 | `3.39` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.41` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `3.36` | ⚠️ outdated |
-| Arch | `3.43` | ✅ latest |
-| Homebrew | `3.43` | ✅ latest |
-| Fedora rawhide | `3.43` | ✅ latest |
-| Nix unstable | `3.42` | ⚠️ outdated |
-| Void | `3.43` | ✅ latest |
-| Alpine edge | `3.43` | ✅ latest |
-| openSUSE Tumbleweed | `3.43` | ✅ latest |
 
 ## Improve this data
 
@@ -99,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:55:12Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:32:30Z._
