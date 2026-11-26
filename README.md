@@ -14,14 +14,14 @@ x install fio
 
 ## Code insight
 
-Total: **111,411** lines of code across **424** files in the top 5 languages.
+Total: **111,414** lines of code across **424** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 75,110 | 7,765 | 14,559 | 189 |
 | Python | 13,094 | 1,439 | 1,957 | 34 |
 | CHeader | 10,917 | 2,039 | 2,421 | 186 |
-| ReStructuredText | 4,536 | 0 | 1,715 | 5 |
+| ReStructuredText | 4,539 | 0 | 1,715 | 5 |
 | Sh | 3,580 | 653 | 335 | 10 |
 
 ## OpenSSF Scorecard
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 6,437 · **Forks**: 1,446 · **Open issues**: 1,134 · **Contributors**: 341
+- **Stars**: 6,438 · **Forks**: 1,446 · **Open issues**: 1,134 · **Contributors**: 341
 
 ## Totals (cumulative)
 
-- **Releases**: 13 · **Merged PRs**: 674 · **Open PRs**: 40 · **Closed issues**: 925 · **Open issues**: 209 · **Commits**: 9028
+- **Releases**: 13 · **Merged PRs**: 674 · **Open PRs**: 40 · **Closed issues**: 925 · **Open issues**: 209 · **Commits**: 9029
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 11 | 13 | 0 | 1 | 18 |
-| last60d | 2026-09-26 | 0 | 16 | 19 | 1 | 1 | 24 |
-| 90d | 2026-08-27 | 1 | 21 | 21 | 2 | 2 | 39 |
-| last180d | 2026-05-29 | 1 | 42 | 23 | 6 | 7 | 110 |
-| 360d | 2025-11-30 | 2 | 76 | 23 | 26 | 15 | 213 |
-| last720d | 2024-12-05 | 5 | 120 | 25 | 89 | 37 | 544 |
+| 30d | 2026-10-27 | 0 | 9 | 13 | 0 | 1 | 19 |
+| last60d | 2026-09-27 | 0 | 16 | 19 | 1 | 1 | 25 |
+| 90d | 2026-08-28 | 1 | 21 | 21 | 2 | 2 | 40 |
+| last180d | 2026-05-30 | 1 | 41 | 23 | 6 | 7 | 111 |
+| 360d | 2025-12-01 | 2 | 76 | 23 | 26 | 15 | 214 |
+| last720d | 2024-12-06 | 5 | 120 | 25 | 89 | 37 | 545 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T10:32:30Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:11:09Z._
