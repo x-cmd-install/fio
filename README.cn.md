@@ -57,12 +57,12 @@ x install fio
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 9 | 12 | 0 | 1 | 19 |
-| last60d | 2026-09-28 | 0 | 15 | 18 | 1 | 1 | 25 |
-| 90d | 2026-08-29 | 1 | 21 | 20 | 2 | 2 | 40 |
-| last180d | 2026-05-31 | 1 | 41 | 22 | 6 | 7 | 111 |
-| 360d | 2025-12-02 | 2 | 76 | 22 | 26 | 14 | 214 |
-| last720d | 2024-12-07 | 5 | 120 | 24 | 89 | 37 | 545 |
+| 30d | 2026-10-29 | 0 | 9 | 12 | 0 | 0 | 19 |
+| last60d | 2026-09-29 | 0 | 15 | 18 | 1 | 1 | 25 |
+| 90d | 2026-08-30 | 1 | 21 | 20 | 2 | 2 | 40 |
+| last180d | 2026-06-01 | 1 | 41 | 22 | 6 | 7 | 111 |
+| 360d | 2025-12-03 | 2 | 76 | 22 | 26 | 14 | 214 |
+| last720d | 2024-12-08 | 5 | 120 | 24 | 89 | 37 | 545 |
 
 ## Release 资产
 
@@ -70,6 +70,25 @@ x install fio
 |------|-----:|----------|
 | [fio-3.43-x64.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x64.msi) | 2.7 MiB | `other` |
 | [fio-3.43-x86.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x86.msi) | 2.6 MiB | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/fio) 上共有 **242** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**115** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `3.41` | ⚠️ outdated |
+| Debian 14 | `3.41` | ⚠️ outdated |
+| Debian 13 | `3.39` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.41` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.36` | ⚠️ outdated |
+| Arch | `3.43` | ✅ latest |
+| Homebrew | `3.43` | ✅ latest |
+| Fedora rawhide | `3.43` | ✅ latest |
+| Nix unstable | `3.42` | ⚠️ outdated |
+| Void | `3.43` | ✅ latest |
+| Alpine edge | `3.43` | ✅ latest |
+| openSUSE Tumbleweed | `3.43` | ✅ latest |
 
 ## 改进这些数据
 
@@ -80,4 +99,4 @@ fio 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T09:29:00Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T08:46:05Z._

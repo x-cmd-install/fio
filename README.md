@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 9 | 12 | 0 | 1 | 19 |
-| last60d | 2026-09-28 | 0 | 15 | 18 | 1 | 1 | 25 |
-| 90d | 2026-08-29 | 1 | 21 | 20 | 2 | 2 | 40 |
-| last180d | 2026-05-31 | 1 | 41 | 22 | 6 | 7 | 111 |
-| 360d | 2025-12-02 | 2 | 76 | 22 | 26 | 14 | 214 |
-| last720d | 2024-12-07 | 5 | 120 | 24 | 89 | 37 | 545 |
+| 30d | 2026-10-29 | 0 | 9 | 12 | 0 | 0 | 19 |
+| last60d | 2026-09-29 | 0 | 15 | 18 | 1 | 1 | 25 |
+| 90d | 2026-08-30 | 1 | 21 | 20 | 2 | 2 | 40 |
+| last180d | 2026-06-01 | 1 | 41 | 22 | 6 | 7 | 111 |
+| 360d | 2025-12-03 | 2 | 76 | 22 | 26 | 14 | 214 |
+| last720d | 2024-12-08 | 5 | 120 | 24 | 89 | 37 | 545 |
 
 ## Release assets
 
@@ -70,6 +70,25 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [fio-3.43-x64.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x64.msi) | 2.7 MiB | `other` |
 | [fio-3.43-x86.msi](https://github.com/axboe/fio/releases/download/fio-3.43/fio-3.43-x86.msi) | 2.6 MiB | `other` |
+
+## Distribution status
+
+Reported by **242** distros on [repology.org](https://repology.org/project/fio). **25** are ✅ on the latest upstream release, **115** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `3.41` | ⚠️ outdated |
+| Debian 14 | `3.41` | ⚠️ outdated |
+| Debian 13 | `3.39` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.41` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `3.36` | ⚠️ outdated |
+| Arch | `3.43` | ✅ latest |
+| Homebrew | `3.43` | ✅ latest |
+| Fedora rawhide | `3.43` | ✅ latest |
+| Nix unstable | `3.42` | ⚠️ outdated |
+| Void | `3.43` | ✅ latest |
+| Alpine edge | `3.43` | ✅ latest |
+| openSUSE Tumbleweed | `3.43` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +99,4 @@ Install metadata for fio lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:28:59Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:46:04Z._
