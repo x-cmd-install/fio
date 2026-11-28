@@ -1,8 +1,92 @@
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: 1.99.12
-  origversion: 1.99.12-1
+  version: "3.0"
+  origversion: 3.0-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.10"
+  origversion: 3.10-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.11"
+  origversion: 3.11-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.1"
+  origversion: 3.1-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.12"
+  origversion: 3.12-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.13"
+  origversion: 3.13-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.14"
+  origversion: 3.14-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.15"
+  origversion: 3.15-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.16"
+  origversion: 3.16-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.17"
+  origversion: 3.17-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.18"
+  origversion: 3.18-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.19"
+  origversion: 3.19-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.20"
+  origversion: 3.20-1
+  status: outdated
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.2"
+  origversion: 3.2-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "3.3"
+  origversion: 3.3-1
   status: legacy
 - repo: aix_osp
   srcname: fio
@@ -31,176 +115,62 @@
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "1.58"
-  origversion: 1.58-1
+  version: "3.8"
+  origversion: 3.8-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: 1.60.2
-  origversion: 1.60.2-1
+  version: "3.9"
+  origversion: 3.9-1
   status: legacy
+- repo: amazon_2
+  srcname: fio
+  visiblename: fio
+  version: "2.14"
+  origversion: 2.14-1.amzn2.0.2
+  status: outdated
+  summary: Multithreaded IO generation tool
+  licenses:
+    - GPLv2
+  categories:
+    - Applications/System
+- repo: amazon_2
+  srcname: fio
+  visiblename: fio
+  version: "2.14"
+  origversion: 2.14-1.amzn2.0.3
+  status: outdated
+  summary: Multithreaded IO generation tool
+  licenses:
+    - GPLv2
+  categories:
+    - Applications/System
+- repo: raspbian_testing
+  subrepo: main
+  srcname: fio
+  binnames:
+    - fio
+    - fio-examples
+  visiblename: fio
+  version: "3.39"
+  origversion: 3.39-1
+  status: outdated
+  maintainers:
+    - martin.steigerwald@proact.de
+  categories:
+    - utils
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: 2.0.10
-  origversion: 2.0.10-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.12.2
-  origversion: 2.0.12.2-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.13
-  origversion: 2.0.13-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.14
-  origversion: 2.0.14-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.15
-  origversion: 2.0.15-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "2.0"
-  origversion: 2.0-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.2
-  origversion: 2.0.2-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.3
-  origversion: 2.0.3-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.4
-  origversion: 2.0.4-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.8
-  origversion: 2.0.8-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.5
-  origversion: 2.0.5-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.6
-  origversion: 2.0.6-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.7
-  origversion: 2.0.7-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.0.9
-  origversion: 2.0.9-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.10
-  origversion: 2.1.10-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.11
-  origversion: 2.1.11-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.1
-  origversion: 2.1.1-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "2.11"
-  origversion: 2.11-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.12
-  origversion: 2.1.12-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.14
-  origversion: 2.1.14-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "2.1"
-  origversion: 2.1-1
+  version: 2.1.4
+  origversion: 2.1.4-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
   version: "2.14"
   origversion: 2.14-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.2
-  origversion: 2.1.2-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "2.12"
-  origversion: 2.12-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.3
-  origversion: 2.1.3-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "2.13"
-  origversion: 2.13-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 2.1.4
-  origversion: 2.1.4-1
   status: legacy
 - repo: aix_osp
   srcname: fio
@@ -225,12 +195,6 @@
   visiblename: fio
   version: "2.16"
   origversion: 2.16-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "3.8"
-  origversion: 3.8-1
   status: legacy
 - repo: aix_osp
   srcname: fio
@@ -367,12 +331,6 @@
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.9"
-  origversion: 3.9-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
   version: "2.6"
   origversion: 2.6-1
   status: legacy
@@ -403,107 +361,231 @@
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.0"
-  origversion: 3.0-1
+  version: 1.44.1
+  origversion: 1.44.1-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.10"
-  origversion: 3.10-1
+  version: 1.44.2
+  origversion: 1.44.2-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.11"
-  origversion: 3.11-1
+  version: 1.44.3
+  origversion: 1.44.3-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.1"
-  origversion: 3.1-1
+  version: "1.50"
+  origversion: 1.50-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.12"
-  origversion: 3.12-1
+  version: "1.52"
+  origversion: 1.52-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.13"
-  origversion: 3.13-1
+  version: "1.53"
+  origversion: 1.53-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.14"
-  origversion: 3.14-1
+  version: "1.54"
+  origversion: 1.54-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.15"
-  origversion: 3.15-1
+  version: "1.55"
+  origversion: 1.55-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.16"
-  origversion: 3.16-1
+  version: "1.56"
+  origversion: 1.56-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.17"
-  origversion: 3.17-1
+  version: "1.57"
+  origversion: 1.57-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.18"
-  origversion: 3.18-1
+  version: "1.58"
+  origversion: 1.58-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.19"
-  origversion: 3.19-1
+  version: 1.60.2
+  origversion: 1.60.2-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.20"
-  origversion: 3.20-1
-  status: outdated
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "3.2"
-  origversion: 3.2-1
+  version: 1.99.12
+  origversion: 1.99.12-1
   status: legacy
 - repo: aix_osp
   srcname: fio
   visiblename: fio
-  version: "3.3"
-  origversion: 3.3-1
+  version: 2.0.10
+  origversion: 2.0.10-1
   status: legacy
-- repo: kali_rolling
-  subrepo: main
+- repo: aix_osp
   srcname: fio
-  binnames:
-    - fio
-    - fio-examples
   visiblename: fio
-  version: "3.41"
-  origversion: 3.41-2
-  status: outdated
-  maintainers:
-    - martin@steigerwald-training.de
-  categories:
-    - utils
+  version: 2.0.12.2
+  origversion: 2.0.12.2-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.13
+  origversion: 2.0.13-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.14
+  origversion: 2.0.14-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.15
+  origversion: 2.0.15-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "2.0"
+  origversion: 2.0-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.2
+  origversion: 2.0.2-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.3
+  origversion: 2.0.3-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.4
+  origversion: 2.0.4-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.5
+  origversion: 2.0.5-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.6
+  origversion: 2.0.6-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.7
+  origversion: 2.0.7-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.8
+  origversion: 2.0.8-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.0.9
+  origversion: 2.0.9-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.10
+  origversion: 2.1.10-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.11
+  origversion: 2.1.11-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.1
+  origversion: 2.1.1-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "2.11"
+  origversion: 2.11-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.12
+  origversion: 2.1.12-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.14
+  origversion: 2.1.14-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "2.1"
+  origversion: 2.1-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.2
+  origversion: 2.1.2-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "2.12"
+  origversion: 2.12-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: 2.1.3
+  origversion: 2.1.3-1
+  status: legacy
+- repo: aix_osp
+  srcname: fio
+  visiblename: fio
+  version: "2.13"
+  origversion: 2.13-1
+  status: legacy
 - repo: aixtoolbox
   srcname: fio
   visiblename: fio
@@ -551,219 +633,148 @@
     - GPLv2
   categories:
     - Unspecified
-- repo: parrot
-  subrepo: parrot/main
+- repo: alpine_3_17
+  subrepo: community
   srcname: fio
-  binnames:
-    - fio
-    - fio-examples
-  visiblename: fio
-  version: "3.39"
-  origversion: 3.39-1
+  binname: fio-doc
+  visiblename: fio-doc
+  version: "3.33"
+  origversion: 3.33-r0
   status: outdated
+  summary: Flexible I/O Tester (documentation)
   maintainers:
-    - martin.steigerwald@proact.de
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_17
+  subrepo: community
+  srcname: fio
+  binname: fio
+  visiblename: fio
+  version: "3.33"
+  origversion: 3.33-r0
+  status: outdated
+  summary: Flexible I/O Tester
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_18
+  subrepo: community
+  srcname: fio
+  binname: fio
+  visiblename: fio
+  version: "3.34"
+  origversion: 3.34-r1
+  status: outdated
+  summary: Flexible I/O Tester
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_18
+  subrepo: community
+  srcname: fio
+  binname: fio-doc
+  visiblename: fio-doc
+  version: "3.34"
+  origversion: 3.34-r1
+  status: outdated
+  summary: Flexible I/O Tester (documentation)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_19
+  subrepo: community
+  srcname: fio
+  binname: fio
+  visiblename: fio
+  version: "3.36"
+  origversion: 3.36-r0
+  status: outdated
+  summary: Flexible I/O Tester
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_19
+  subrepo: community
+  srcname: fio
+  binname: fio-doc
+  visiblename: fio-doc
+  version: "3.36"
+  origversion: 3.36-r0
+  status: outdated
+  summary: Flexible I/O Tester (documentation)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_20
+  subrepo: community
+  srcname: fio
+  binname: fio
+  visiblename: fio
+  version: "3.36"
+  origversion: 3.36-r0
+  status: outdated
+  summary: Flexible I/O Tester
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_20
+  subrepo: community
+  srcname: fio
+  binname: fio-doc
+  visiblename: fio-doc
+  version: "3.36"
+  origversion: 3.36-r0
+  status: outdated
+  summary: Flexible I/O Tester (documentation)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_21
+  subrepo: community
+  srcname: fio
+  binname: fio
+  visiblename: fio
+  version: "3.38"
+  origversion: 3.38-r0
+  status: outdated
+  summary: Flexible I/O Tester
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: alpine_3_21
+  subrepo: community
+  srcname: fio
+  binname: fio-doc
+  visiblename: fio-doc
+  version: "3.38"
+  origversion: 3.38-r0
+  status: outdated
+  summary: Flexible I/O Tester (documentation)
+  maintainers:
+    - wenermail@gmail.com
+  licenses:
+    - GPL-2.0-only
+- repo: aosc
+  srcname: app-utils/fio
+  binname: fio
+  visiblename: fio
+  version: "3.41"
+  origversion: 3.41-1
+  status: outdated
+  summary: Scriptable I/O tool for storage benchmarks and drive testing
+  maintainers:
+    - fallback-mnt-aosc@repology
   categories:
     - utils
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.55"
-  origversion: 1.55-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.56"
-  origversion: 1.56-1
-  status: legacy
-- repo: pclinuxos
-  srcname: fio
-  visiblename: fio
-  version: "3.25"
-  origversion: 3.25-2pclos2021
-  status: outdated
-  summary: A flexible I/O tester/benchmarker
-  categories:
-    - System/Kernel and hardware
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.57"
-  origversion: 1.57-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 1.44.1
-  origversion: 1.44.1-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 1.44.2
-  origversion: 1.44.2-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: 1.44.3
-  origversion: 1.44.3-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.50"
-  origversion: 1.50-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.52"
-  origversion: 1.52-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.53"
-  origversion: 1.53-1
-  status: legacy
-- repo: aix_osp
-  srcname: fio
-  visiblename: fio
-  version: "1.54"
-  origversion: 1.54-1
-  status: legacy
-- repo: alpine_3_17
-  subrepo: community
-  srcname: fio
-  binname: fio-doc
-  visiblename: fio-doc
-  version: "3.33"
-  origversion: 3.33-r0
-  status: outdated
-  summary: Flexible I/O Tester (documentation)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_17
-  subrepo: community
-  srcname: fio
-  binname: fio
-  visiblename: fio
-  version: "3.33"
-  origversion: 3.33-r0
-  status: outdated
-  summary: Flexible I/O Tester
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_18
-  subrepo: community
-  srcname: fio
-  binname: fio
-  visiblename: fio
-  version: "3.34"
-  origversion: 3.34-r1
-  status: outdated
-  summary: Flexible I/O Tester
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_18
-  subrepo: community
-  srcname: fio
-  binname: fio-doc
-  visiblename: fio-doc
-  version: "3.34"
-  origversion: 3.34-r1
-  status: outdated
-  summary: Flexible I/O Tester (documentation)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_19
-  subrepo: community
-  srcname: fio
-  binname: fio
-  visiblename: fio
-  version: "3.36"
-  origversion: 3.36-r0
-  status: outdated
-  summary: Flexible I/O Tester
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_19
-  subrepo: community
-  srcname: fio
-  binname: fio-doc
-  visiblename: fio-doc
-  version: "3.36"
-  origversion: 3.36-r0
-  status: outdated
-  summary: Flexible I/O Tester (documentation)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_20
-  subrepo: community
-  srcname: fio
-  binname: fio
-  visiblename: fio
-  version: "3.36"
-  origversion: 3.36-r0
-  status: outdated
-  summary: Flexible I/O Tester
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_20
-  subrepo: community
-  srcname: fio
-  binname: fio-doc
-  visiblename: fio-doc
-  version: "3.36"
-  origversion: 3.36-r0
-  status: outdated
-  summary: Flexible I/O Tester (documentation)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_21
-  subrepo: community
-  srcname: fio
-  binname: fio
-  visiblename: fio
-  version: "3.38"
-  origversion: 3.38-r0
-  status: outdated
-  summary: Flexible I/O Tester
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
-- repo: alpine_3_21
-  subrepo: community
-  srcname: fio
-  binname: fio-doc
-  visiblename: fio-doc
-  version: "3.38"
-  origversion: 3.38-r0
-  status: outdated
-  summary: Flexible I/O Tester (documentation)
-  maintainers:
-    - wenermail@gmail.com
-  licenses:
-    - GPL-2.0-only
 - repo: alpine_3_22
   subrepo: community
   srcname: fio
@@ -955,40 +966,6 @@
     - GPLv2
   categories:
     - Applications/System
-- repo: amazon_2
-  srcname: fio
-  visiblename: fio
-  version: "2.14"
-  origversion: 2.14-1.amzn2.0.2
-  status: outdated
-  summary: Multithreaded IO generation tool
-  licenses:
-    - GPLv2
-  categories:
-    - Applications/System
-- repo: amazon_2
-  srcname: fio
-  visiblename: fio
-  version: "2.14"
-  origversion: 2.14-1.amzn2.0.3
-  status: outdated
-  summary: Multithreaded IO generation tool
-  licenses:
-    - GPLv2
-  categories:
-    - Applications/System
-- repo: aosc
-  srcname: app-utils/fio
-  binname: fio
-  visiblename: fio
-  version: "3.41"
-  origversion: 3.41-1
-  status: outdated
-  summary: Scriptable I/O tool for storage benchmarks and drive testing
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - utils
 - repo: arch
   subrepo: extra
   srcname: fio
@@ -1481,6 +1458,14 @@
     - GPLv2
   categories:
     - Unspecified
+- repo: gnuguix
+  srcname: fio
+  binname: fio
+  visiblename: fio
+  version: "3.42"
+  origversion: null
+  status: outdated
+  summary: Flexible I/O tester
 - repo: eurolinux_9
   subrepo: baseos
   srcname: fio
@@ -1506,13 +1491,6 @@
     - GPLv2
   categories:
     - Unspecified
-- repo: homebrew
-  srcname: fio
-  visiblename: fio
-  version: "3.43"
-  origversion: null
-  status: newest
-  summary: I/O benchmark and stress test
 - repo: exherbo
   subrepo: platypus
   srcname: app-benchmarks/fio
@@ -1699,14 +1677,27 @@
     - GPL-2
   categories:
     - sys-block
-- repo: gnuguix
+- repo: homebrew
   srcname: fio
-  binname: fio
   visiblename: fio
-  version: "3.42"
+  version: "3.43"
   origversion: null
+  status: newest
+  summary: I/O benchmark and stress test
+- repo: kali_rolling
+  subrepo: main
+  srcname: fio
+  binnames:
+    - fio
+    - fio-examples
+  visiblename: fio
+  version: "3.41"
+  origversion: 3.41-2
   status: outdated
-  summary: Flexible I/O tester
+  maintainers:
+    - martin@steigerwald-training.de
+  categories:
+    - utils
 - repo: liguros_stable
   srcname: sys-block/fio
   visiblename: sys-block/fio
@@ -1879,6 +1870,35 @@
     - fallback-mnt-nix@repology
   licenses:
     - GPL-2.0-or-later
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: fio
+  binnames:
+    - fio
+    - gfio
+    - fio-examples
+  visiblename: fio
+  version: "3.33"
+  origversion: 3.33-3
+  status: outdated
+  maintainers:
+    - martin.steigerwald@proact.de
+  categories:
+    - utils
+- repo: raspbian_stable
+  subrepo: main
+  srcname: fio
+  binnames:
+    - fio
+    - fio-examples
+  visiblename: fio
+  version: "3.39"
+  origversion: 3.39-1
+  status: outdated
+  maintainers:
+    - martin.steigerwald@proact.de
+  categories:
+    - utils
 - repo: nix_unstable
   srcname: fio
   visiblename: fio
@@ -2197,6 +2217,20 @@
   categories:
     - utils
 - repo: parrot
+  subrepo: parrot/main
+  srcname: fio
+  binnames:
+    - fio
+    - fio-examples
+  visiblename: fio
+  version: "3.39"
+  origversion: 3.39-1
+  status: outdated
+  maintainers:
+    - martin.steigerwald@proact.de
+  categories:
+    - utils
+- repo: parrot
   subrepo: parrot-updates/main
   srcname: fio
   binnames:
@@ -2210,6 +2244,15 @@
     - martin.steigerwald@proact.de
   categories:
     - utils
+- repo: pclinuxos
+  srcname: fio
+  visiblename: fio
+  version: "3.25"
+  origversion: 3.25-2pclos2021
+  status: outdated
+  summary: A flexible I/O tester/benchmarker
+  categories:
+    - System/Kernel and hardware
 - repo: pisi_main
   subrepo: main
   srcname: hardware/disk/fio
@@ -2272,20 +2315,6 @@
   status: newest
   licenses:
     - GPL-2.0-only
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: fio
-  binnames:
-    - fio
-    - gfio
-  visiblename: fio
-  version: "3.12"
-  origversion: 3.12-2
-  status: outdated
-  maintainers:
-    - martin.steigerwald@proact.de
-  categories:
-    - utils
 - repo: pureos_byzantium
   subrepo: byzantium/main
   srcname: fio
@@ -2302,49 +2331,6 @@
     - utils
 - repo: pureos_landing
   subrepo: landing/main
-  srcname: fio
-  binnames:
-    - fio
-    - fio-examples
-  visiblename: fio
-  version: "3.39"
-  origversion: 3.39-1
-  status: outdated
-  maintainers:
-    - martin.steigerwald@proact.de
-  categories:
-    - utils
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: fio
-  binnames:
-    - fio
-    - gfio
-    - fio-examples
-  visiblename: fio
-  version: "3.33"
-  origversion: 3.33-3
-  status: outdated
-  maintainers:
-    - martin.steigerwald@proact.de
-  categories:
-    - utils
-- repo: raspbian_stable
-  subrepo: main
-  srcname: fio
-  binnames:
-    - fio
-    - fio-examples
-  visiblename: fio
-  version: "3.39"
-  origversion: 3.39-1
-  status: outdated
-  maintainers:
-    - martin.steigerwald@proact.de
-  categories:
-    - utils
-- repo: raspbian_testing
-  subrepo: main
   srcname: fio
   binnames:
     - fio
@@ -2603,20 +2589,6 @@
   categories:
     - universe/utils
 - repo: ubuntu_24_04
-  subrepo: noble-updates/universe
-  srcname: fio
-  binnames:
-    - fio
-    - fio-examples
-  visiblename: fio
-  version: "3.36"
-  origversion: 3.36-1ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/utils
-- repo: ubuntu_24_04
   subrepo: noble/universe
   srcname: fio
   binnames:
@@ -2625,6 +2597,20 @@
   visiblename: fio
   version: "3.36"
   origversion: 3.36-1build2
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/utils
+- repo: ubuntu_24_04
+  subrepo: noble-updates/universe
+  srcname: fio
+  binnames:
+    - fio
+    - fio-examples
+  visiblename: fio
+  version: "3.36"
+  origversion: 3.36-1ubuntu0.1
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
